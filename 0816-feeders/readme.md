@@ -1,6 +1,6 @@
 Adaptor to mount 0816 feeders onto 20X20 frame of the Lumen pnp.
 
-Need 5 screws.
+Need 3 screws.
 * M3 8mmm
 * M3 12mm
 * M5 10mm
